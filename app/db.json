@@ -68,4 +68,12 @@
     "rating": 7.7,
     "director": ["Sofia Coppola"],
     "stars": ["Bill Murray", "Scarlett Johansson", "Giovanni Ribisi"]
+},
+{
+    "title": "The Ghost Writer",
+    "genre": ["crime", "drama", "mystery"],
+    "year": 2010,
+    "rating": 7.2,
+    "director": ["Roman Polański"],
+    "stars": ["Ewan McGregor", "Pierce Brosnan", "Olivia Williams"]
 }]
